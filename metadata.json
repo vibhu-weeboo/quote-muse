@@ -1,0 +1,5 @@
+{
+  "name": "Copy of QuoteMuse",
+  "description": "A minimalistic quote generator powered by Gemini. Users can specify a topic and select a genre (e.g., Classical, Poetic, Romantic) to receive a unique, elegantly styled quote.",
+  "requestFramePermissions": []
+}
